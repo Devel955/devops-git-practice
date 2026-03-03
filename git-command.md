@@ -1,5 +1,6 @@
-## git status
-Shows repository status
+#!/bin/bash
 
+## git switch
+Switches branches safely
 Example:
-git status
+git switch feature-1
