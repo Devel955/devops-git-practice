@@ -1,5 +1,5 @@
-## git branch
-Creates new branch
+## git status
+Shows repository status
 
 Example:
-git branch feature
+git status
