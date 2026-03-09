@@ -1,11 +1,14 @@
-## Task 3: Organize Your Repositories
+## Task 4: Pin Your Best Repositories
 
-Today I organized my GitHub repositories to make my profile more professional.
+I selected and pinned repositories that best represent my DevOps learning and projects.
 
-I created the following repositories:
+Pinned repositories include:
 
-1. shell-scripts – for my shell scripting practice and automation scripts
-2. python-scripts – for my Python learning and practice scripts
-3. devops-notes – for DevOps notes, cheat sheets, and references
+- 90DaysOfDevOps
+- devops-git-practice
+- shell-scripts
+- python-scripts
+- devops-notes
+- test-gh-cli
 
-Each repository has a proper name, description, and README file.
+Each pinned repository has a proper description and README explaining the project.
