@@ -1,11 +1,15 @@
-## Task 5: Clean Up
+## Task 6: Before & After
 
-Today I cleaned up my GitHub profile by reviewing my repositories and removing unnecessary clutter.
+### Before
+![Before Profile](before-profile.png)
 
-### Changes I made
-- Deleted or archived repositories that were empty, abandoned, or not relevant to my developer profile
-- Renamed repositories with unclear names to make them more descriptive and professional
-- Checked my repositories for sensitive information such as `.env` files, API keys, passwords, and tokens
-- Reviewed commit history to ensure I was not exposing secrets in older commits
+### After
+![After Profile](after-profile.png)
 
-This cleanup made my GitHub profile more professional, focused, and safe for recruiters and collaborators to view.
+### Improvements I Made
+
+1. Added a professional GitHub profile README to introduce myself and show my DevOps learning journey.
+
+2. Organized my repositories and created dedicated repos such as shell-scripts, python-scripts, and devops-notes.
+
+3. Pinned the most relevant repositories to highlight my DevOps work and projects for recruiters.
