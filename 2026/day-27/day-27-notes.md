@@ -1,14 +1,11 @@
-## Task 4: Pin Your Best Repositories
+## Task 5: Clean Up
 
-I selected and pinned repositories that best represent my DevOps learning and projects.
+Today I cleaned up my GitHub profile by reviewing my repositories and removing unnecessary clutter.
 
-Pinned repositories include:
+### Changes I made
+- Deleted or archived repositories that were empty, abandoned, or not relevant to my developer profile
+- Renamed repositories with unclear names to make them more descriptive and professional
+- Checked my repositories for sensitive information such as `.env` files, API keys, passwords, and tokens
+- Reviewed commit history to ensure I was not exposing secrets in older commits
 
-- 90DaysOfDevOps
-- devops-git-practice
-- shell-scripts
-- python-scripts
-- devops-notes
-- test-gh-cli
-
-Each pinned repository has a proper description and README explaining the project.
+This cleanup made my GitHub profile more professional, focused, and safe for recruiters and collaborators to view.
